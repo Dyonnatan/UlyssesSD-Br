@@ -4,6 +4,9 @@ UlyssesSD-Br: Stance Detection in Brazilian Political Polls
 ## Code
 Coming soon...
 
+Notebook preview:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z7r3DzrpmSwqf2B3iaauhDgIf1TqO_P3?usp=sharing)
+
 ## Models
 Coming soon...
 

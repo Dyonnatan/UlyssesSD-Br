@@ -8,7 +8,7 @@ Notebook preview:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z7r3DzrpmSwqf2B3iaauhDgIf1TqO_P3?usp=sharing)
 
 ## Models
-Coming soon...
+All models available: [Drive](https://drive.google.com/drive/folders/1st91C76Dzx2M-cGpdMP9TlEgGHtKlBgR?usp=sharing)
 
 ## Citation
 
